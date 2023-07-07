@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Lock Screen</title>
+    <script src="lockscreen.js"></script>
+</head>
+<body>
+    <button onclick="lockScreen()">Lock Screen</button>
+</body>
+</html>
